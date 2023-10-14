@@ -1,9 +1,9 @@
 # ADM-HW1
 ## Algorithmic Methods of Data Mining - Data Science Master's Degree - Sapienza University of Rome
 
-Student: Francesco Lazzari
+**Student:** Francesco Lazzari
 
-ID: 1917922
+**ID:** 1917922
 
 This repository contains the exercises made on the Hackerrank platform, in order to build up skills in Python. 
 
